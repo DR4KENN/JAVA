@@ -3,8 +3,7 @@ import java.util.Scanner;
 public class comparaison {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        
-        // Nombre secret
+    
         int secret = 42;
         
         System.out.print("Veuillez saisir un chiffre : ");
